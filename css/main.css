@@ -1,0 +1,25 @@
+/**
+    Exemplo de seletor de ID
+*/
+#resultado {
+    color: chocolate;
+}
+
+/**
+    Exemplo de seletor de classe
+*/
+.destaqueTexto {
+    color: red;
+}
+
+/**
+    Exemplo de seletor de TAG
+*/
+h1 {
+    color: blue;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
